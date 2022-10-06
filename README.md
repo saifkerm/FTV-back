@@ -1,5 +1,5 @@
-# FDJ BACK END
-Technical test for FDJ.
+# FTV BACK END
+Technical test for FTV.
 
 ### How to start server
 ```sh
@@ -15,15 +15,6 @@ npm run test
 
 ### API List :
 
-| Leagues           | Path                     |
-|-------------------|--------------------------|
-| All leagues       | /leagues                 |
-| Search leagues    | /leagues/search/:name    |
-| Get league by _id | /leagues/_id/:id         |
-
-
-
-| Teams                      | Path               |
-|----------------------------|--------------------|
-| Get all teams              | /teams             |
-| Get all players of a team  | /teams/players/:id |
+| News              | Path                  |
+|-------------------|-----------------------|
+| All news          | /news                 |
